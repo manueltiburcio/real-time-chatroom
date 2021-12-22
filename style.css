@@ -1,0 +1,19 @@
+body {
+  background-color: gray;
+  color: white;
+}
+
+.container {
+  max-width: 600px;
+}
+
+.btn {
+  background: #6f4c5b;
+  color: white;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.btn:focus {
+  outline: none !important;
+}
